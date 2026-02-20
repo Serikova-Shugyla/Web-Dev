@@ -6,3 +6,10 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.empty-message {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 18px;
+  color: #e31010;
+}
